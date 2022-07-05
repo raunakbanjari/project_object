@@ -1,0 +1,29 @@
+.heading{
+    border: 5px 5px solid black;
+   font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bolder;
+}
+.btn-warning{
+    width: 300px;
+    font-size: 20px;
+    color: chocolate;
+    border-radius: 20px;
+}
+.btn-warning:hover{
+    background-color: aquamarine;
+    color: blue;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+.ok{
+    border: 5px 5px solid black;
+    font-size: 23px;
+     width: 100%;
+     margin: 0px;
+     color: chocolate;
+     font-weight: bold;
+}
